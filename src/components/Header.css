@@ -1,0 +1,138 @@
+.header {
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 60px;
+    background: #F5F5F5 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+    display: flex;
+}
+
+.header-logo{
+
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.header-items {
+    display: flex;
+    top: 20px;
+    height: 19px;
+    margin-left: auto;
+    justify-content: space-around;
+   
+    /* align-items: center; */
+}
+
+
+.courses{
+    padding-left: 20px;
+    padding-right: 20px;
+    left: 1507px;
+    width: 81px;
+   
+    /* UI Properties */
+    text-align: left;
+    font: normal normal bold 16px/19px Montserrat;
+    letter-spacing: 0px;
+    color: #080808;
+    opacity: 1;
+}
+
+.wishlist {
+    padding-left: 20px;
+    padding-right: 20px;
+    left: 1633px;
+    width: 117px;
+   
+    text-align: left;
+    font: normal normal 300 16px/19px Montserrat;
+    letter-spacing: 0px;
+    color: #080808;
+    opacity: 1;
+}
+
+.cart {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    top: 119px;
+    left: 1811px;
+    width: 24px;
+    height: 23px;
+    background: transparent  0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.profile {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    top: 18px;
+    left: 1870px;
+    width: 24px;
+    height: 24px;
+    /* UI Properties */
+    background: transparent  0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.top {
+    /* top: 76px; */
+    /* left: 140px; */
+    width: 80%;
+    height: 81px;
+    /* UI Properties */
+    background: #0F1317 0% 0% no-repeat padding-box;
+    border-radius: 4px;
+    opacity: 1;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+
+.course {
+    /* top: 38px; */
+    /* left: 167px; */
+    width: 258px;
+    /* height: 36px; */
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 500 16px/18px Montserrat;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    float: left;
+    padding: 20px;
+    margin-top: auto;
+}
+
+.react-logo {
+    /* top: 56px; */
+    /* left: 1057px; */
+    padding: 8px 20px 0px 0px;
+    margin-right: auto;
+    width: 353px;
+    height: 71px;
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+    /* float: right; */
+    /* margin-bottom: auto; */
+    position: absolute;
+    /* bottom: 0; */
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
